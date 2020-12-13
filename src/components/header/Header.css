@@ -1,0 +1,29 @@
+.header {
+    text-align: center;
+}
+
+
+.header__logo {
+    height: 80px;
+    width: auto;
+}
+.header__jumbo {
+    padding: 30px 100px!important;
+    background-image: url("../../img/header-bg.jpg");
+}
+
+.header__jumbo p {
+    margin-bottom: 0;
+    color: #535355;
+}
+
+.header__title {
+    font-size: 36px;
+    margin-top: 10px;
+    color: #2c4a68;
+}
+
+.header__subtitle {
+    font-size: 22px;
+    color: #535355;
+}
