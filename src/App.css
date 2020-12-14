@@ -32,7 +32,26 @@ body {
     color: #535355;
     margin-top: 20px;
     text-decoration: none;
-    transition: 450ms;
+    transition: 350ms;
+}
+
+.content__card__empty {
+    margin-left: 10px;;
+    margin-right: 10px;
+    color: white;
+    margin-top: 20px;
+    border: none!important;
+}
+
+
+.content__card__code {
+    margin-left: 10px;;
+    margin-right: 10px;
+    color: #535355;
+    margin-top: 20px;
+    text-decoration: none;
+    transition: 350ms;
+    background-color: rgba(242, 242, 242, 0.8);
 }
 
 .content__card:hover {
@@ -41,7 +60,20 @@ body {
     color: #535355;
     margin-top: 20px;
     text-decoration: none;
-    transform:scale(1.07, 1.07);
+    transform:scale(1.04, 1.04);
+    background-color: whitesmoke;
+    -webkit-box-shadow: 10px 8px 23px -7px rgba(0,0,0,0.55);
+    -moz-box-shadow: 10px 8px 23px -7px rgba(0,0,0,0.55);
+    box-shadow: 10px 8px 23px -7px rgba(0,0,0,0.55);
+}
+
+.content__card__code:hover {
+    margin-left: 10px;;
+    margin-right: 10px;
+    color: #535355;
+    margin-top: 20px;
+    text-decoration: none;
+    transform:scale(1.04, 1.04);
     background-color: whitesmoke;
     -webkit-box-shadow: 10px 8px 23px -7px rgba(0,0,0,0.55);
     -moz-box-shadow: 10px 8px 23px -7px rgba(0,0,0,0.55);
@@ -117,6 +149,16 @@ body {
 
 .solution_image__diagram:hover {
     transform:scale(1.05, 1.05);
+}
+
+.software__img {
+    width: 338px;
+    height: auto;
+    overflow: hidden!important;
+}
+
+.hidden {
+    display: none!important;
 }
 
 
