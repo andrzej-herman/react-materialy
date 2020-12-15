@@ -2,18 +2,18 @@ import React, { Fragment } from "react";
 import { Container } from "react-bootstrap";
 import Header from "../../components/header/Header";
 import Footer from "../../components/footer/Footer";
-import Bootstrap from "../../components/bootstrap/Bootstrap";
+import Css from "../../components/css/Css";
 
-function BootstrapPage() {
+function CssPage() {
   return (
     <Fragment>
       <Container>
         <Header />
-        <Bootstrap />
+        <Css />
       </Container>
       <Footer />
     </Fragment>
   );
 }
 
-export default BootstrapPage;
+export default CssPage;

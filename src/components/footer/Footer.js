@@ -49,6 +49,15 @@ function Footer() {
               </li>
               <li>
                 <a
+                  href="https://www.youtube.com/playlist?list=PLOYHgt8dIdow6b2Qm3aTJbKT2BPo5iybv"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Video Kurs Podstawy CSS (YouTube)
+                </a>
+              </li>
+              <li>
+                <a
                   href="https://www.megaksiazki.pl/historia-swiata/1023215-czysty-kod-podrecznik-dobrego-programisty.html?utm_si=dEh1ckV0aDRyTVRBeU16SXhOVFExTGpjeU5EQXdNQT09&adtype=%7Badtype%7D&product_id=%7Bproduct_id%7D&product_partition_id=%7Bproduct_partition_id%7D&store_code=%7Bstore_code%7D&matchtype=&network=g&device=c&creative=86980132997&keyword=&placement=&param1=&param2=&adposition=&campaignid=311701277&adgroupid=25605646997&feeditemid=&targetid=pla-294682000766&loc_physical_ms=9067400&loc_interest_ms=&searchtype=search&gclid=Cj0KCQiAhs79BRD0ARIsAC6XpaVObnr74PINTaymWQqnm-H0DCF4l-fMCxHo8syFiieFE-JGiKCtFoEaApeZEALw_wcB"
                   target="_blank"
                   rel="noopener noreferrer"

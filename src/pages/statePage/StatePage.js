@@ -2,18 +2,17 @@ import React, { Fragment } from "react";
 import { Container } from "react-bootstrap";
 import Header from "../../components/header/Header";
 import Footer from "../../components/footer/Footer";
-import Bootstrap from "../../components/bootstrap/Bootstrap";
+import State from "../../components/state/State";
 
-function BootstrapPage() {
+function StatePage() {
   return (
     <Fragment>
       <Container>
         <Header />
-        <Bootstrap />
+        <State />
       </Container>
       <Footer />
     </Fragment>
   );
 }
-
-export default BootstrapPage;
+export default StatePage;

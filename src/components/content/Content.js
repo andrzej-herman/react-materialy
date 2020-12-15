@@ -77,9 +77,9 @@ function Content() {
               code={false}
             />
             <ContentCard
-              title="8. Fundamentalne zasady React"
-              text="Kilka słów na temat ważnych rzeczy w bibliotece React"
-              link="/fundamentals"
+              title="8. Zdarzenia w React"
+              text="Przechywtywanie zachowań użytkowników aplikacji"
+              link="/events"
               code={false}
             />
             <ContentCard
